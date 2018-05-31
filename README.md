@@ -4,9 +4,8 @@ producer/consumer relationship between cooks and servers
 
 ## Output
 
-<img src = "" width = "">
-<img src = "" width = "">
-
+<img src="ScreenShot1.png" width="300">
+<img src="ScreenShot2.png" width="300">
 
 ## Requirements
 - [x] Write the thread class for the CookThread
